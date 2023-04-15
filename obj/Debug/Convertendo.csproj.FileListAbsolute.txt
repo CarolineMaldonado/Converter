@@ -1,0 +1,8 @@
+C:\Users\carol\source\repos\Convertendo\bin\Debug\Convertendo.exe.config
+C:\Users\carol\source\repos\Convertendo\bin\Debug\Convertendo.exe
+C:\Users\carol\source\repos\Convertendo\bin\Debug\Convertendo.pdb
+C:\Users\carol\source\repos\Convertendo\obj\Debug\Convertendo.csproj.AssemblyReference.cache
+C:\Users\carol\source\repos\Convertendo\obj\Debug\Convertendo.csproj.SuggestedBindingRedirects.cache
+C:\Users\carol\source\repos\Convertendo\obj\Debug\Convertendo.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\Convertendo\obj\Debug\Convertendo.exe
+C:\Users\carol\source\repos\Convertendo\obj\Debug\Convertendo.pdb
